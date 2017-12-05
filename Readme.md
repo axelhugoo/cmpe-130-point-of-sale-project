@@ -9,5 +9,5 @@ In this project we utilize the BST and Hash Map for the implementation of Search
 ### How To Run The Program
 
 - There are several class file in the program
-- For the user interface part, the UserInterfaceOption.java provide for both BST and HashMap implementation
+- For the user interface part, the UserInterfaceOption.java provide both BST and HashMap implementation
 - The program can be run by using any Java IDE
