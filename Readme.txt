@@ -1,0 +1,2 @@
+- The program is compatible with most Java IDE.
+- The input of the program is user input. Users will be prompted for input in the program. 
